@@ -103,6 +103,10 @@ img {
         width: 70%;
         margin-top: 20px;
     }
+    img {
+        float: right;
+        margin-top: 40px;
+    }
     .intro {
         margin: 0 auto;
         text-align: center;
