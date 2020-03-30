@@ -20,6 +20,8 @@ img {
     width: 70px;
 }
 
+/* Should I have used Flexbox here or Grid? */
+
 .container {
     max-width: 1440px; 
     margin: 0 auto;
@@ -48,6 +50,10 @@ img {
     font-size: 20px;
     font-weight: 600;
 }
+
+/* The images/logos aren't responsive. 
+I want them to stay in their sections when I make the browser smaller
+but I am not sure how. */
 
 img {
     float: right;
@@ -111,7 +117,7 @@ img {
     
     h2 {
         font-weight: 600;
-        line-height: 10px;
+        line-height: 15px;
         font-size: 25px;
     }   
 }
