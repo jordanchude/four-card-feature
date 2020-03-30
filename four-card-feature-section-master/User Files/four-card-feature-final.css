@@ -118,10 +118,17 @@ img {
         font-size: 25px;
         line-height: 30px;
     }
+
+    #title {
+        font-weight: 200;
+        margin-top: 10px;
+        font-size: 20px;
+        line-height: 30px;
+    }
     
     h2 {
         font-weight: 600;
         line-height: 20px;
-        font-size: 25px;
+        font-size: 15px;
     }   
 }
