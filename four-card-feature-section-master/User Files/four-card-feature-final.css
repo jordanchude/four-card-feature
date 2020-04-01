@@ -14,12 +14,6 @@ span {
     font-weight: 600;
 }
 
-h2 {
-    font-weight: 600;
-    line-height: 10px;
-    font-size: 30px;
-}   
-
 img {
     width: 70px;
 }
@@ -125,11 +119,5 @@ header {
         margin-top: 10px;
         font-size: 20px;
         line-height: 30px;
-    }
-    
-    h2 {
-        font-weight: 600;
-        line-height: 20px;
-        font-size: 15px;
-    }   
+    }  
 }
